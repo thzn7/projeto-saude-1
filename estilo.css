@@ -4,3 +4,12 @@
     background: rgb(9,90,121);
 background: linear-gradient(90deg, rgba(9,90,121,1) 23%, rgba(255,255,255,1) 71%);
 }
+.banner h1{
+color: rgb(0, 0, 0);
+}
+.banner h2{
+color: aqua;
+}
+.banner p{
+color: gray;
+}

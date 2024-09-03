@@ -16,3 +16,22 @@ color: aqua;
 .banner p{
 color: rgb(58, 58, 58);
 }
+
+.conteudo1{
+    width: 100%;
+    padding:20px;
+    background: rgb(64,128,151);
+background: linear-gradient(90deg, rgba(64,128,151,1) 32%, rgba(255,255,255,1) 80%);
+}
+
+.conteudo1 h1{
+color: rgb(0, 16, 104);
+font-size:24px ;
+}
+.conteuo1 h2{
+color: aqua;
+}
+
+.conteudo1 p{
+color: rgb(58, 58, 58);
+}
